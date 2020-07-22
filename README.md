@@ -18,4 +18,8 @@ Once the dependencies are installed then simple run:
 ```shell script
 FILENAME=example_cloud.png python app.py
 ```
+
+Where *FILENAME* represents the name of the file that will be saved (in the current directory by default).
+
+
  
