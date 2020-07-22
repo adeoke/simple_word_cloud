@@ -1,4 +1,8 @@
-# wordcloud
+# Word Cloud
+
+# Example
+
+![workout query](/images/example_cloud.png)
 
 This is not really a project, just a reminder for myself.
 to install the dependencies just do:

@@ -91,6 +91,4 @@ modules.xml
 # Sonarlint plugin
 .idea/sonarlint
 
-*.png
-
 # End of https://www.toptal.com/developers/gitignore/api/pycharm+all
