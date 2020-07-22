@@ -5,9 +5,8 @@
 ![workout query](/images/example_cloud.png)
 
 This is not really a project, just a reminder for myself.
-to install the dependencies just do:
 
-## Setup locally
+## Setup
 
 If you do not have Python installed, check the installation instructions for your platform here:
 
