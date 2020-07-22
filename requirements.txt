@@ -1,0 +1,2 @@
+wordcloud==1.7.0
+stopwords==0.1.3
