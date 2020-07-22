@@ -1,6 +1,6 @@
 # Word Cloud
 
-# Example
+### Example
 
 ![workout query](/images/example_cloud.png)
 
